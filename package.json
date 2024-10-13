@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test":"",
+  "test": "echo \"todo\"",
     "dev": "pnpm --filter @lwt-element/play dev",
     "docs:dev": "pnpm --filter @lwt-element/docs dev",
     "docs:build": "pnpm --filter @lwt-element/docs build"
