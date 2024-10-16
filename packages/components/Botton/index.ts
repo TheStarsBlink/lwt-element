@@ -1,4 +1,4 @@
-import botton from './botton.vue'
+import botton from './Botton.vue'
 import {withInstall  } from "@lwt-element/utils";
 
 export  const ErBotton = withInstall(botton)
